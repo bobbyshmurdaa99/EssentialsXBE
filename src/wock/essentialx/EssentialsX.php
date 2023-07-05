@@ -47,6 +47,7 @@ use wock\essentialx\{API\WarpAPI,
 use pocketmine\utils\Config;
 use pocketmine\utils\TextFormat;
 
+// TEST
 class EssentialsX extends PluginBase {
 
     /** @var EssentialsX */
